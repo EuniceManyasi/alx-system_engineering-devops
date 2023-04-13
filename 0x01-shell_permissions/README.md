@@ -9,3 +9,6 @@ prints the effective username of the current user
 
 3. New owner
 changes the owner of the file hello to the user betty
+
+4. Empty
+creates an empty file called hello
